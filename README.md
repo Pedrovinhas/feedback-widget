@@ -15,8 +15,6 @@
 O Feedget é uma aplicação desenvolvida durante a Next Level Week 8 - Return - apresentado pela **[Rocketseat](https://www.rocketseat.com.br)** e responsável por coletar o feedback de usuários e
 que pode ser implementada tanto no ecossistema web ou mobile. Utilizamos ferramentas e bibliotecas para tornar a navegação dentro da aplicação totalmente acessível.
 
-## Dependências
-
 ## 🔧 Funcionalidades
 
 - ✔️ Navegação com o Teclado
