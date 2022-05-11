@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 📑 Projeto
@@ -15,14 +15,14 @@
 O Feedget é uma aplicação desenvolvida durante a Next Level Week 8 - Return - apresentado pela **[Rocketseat](https://www.rocketseat.com.br)** e responsável por coletar o feedback de usuários e
 que pode ser implementada tanto no ecossistema web ou mobile. Utilizamos ferramentas e bibliotecas para tornar a navegação dentro da aplicação totalmente acessível.
 
-## 🔧 Funcionalidades
+## 🧪 Funcionalidades
 
-✔️ Navegação com o Teclado
-✔️ Envio e escolha de cada tipo de feedbacks.
-✔️ Screenshot da tela com html2canvas
-✔️ Uso do MailTrap para o envio de e-mails com os feedbacks
+✔️ Navegação com o Teclado </br>
+✔️ Envio e escolha de cada tipo de feedbacks. </br>
+✔️ Screenshot da tela com html2canvas </br>
+✔️ Uso do MailTrap para o envio de e-mails com os feedbacks </br>
 
-## 🧪 Ferramentas
+## 🔧 Ferramentas
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -40,7 +40,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### Dependências
 - [Headless UI]()
-- 
+
+
 ## 🚀 Como executar
 
 Clone o repositório e acesse a pasta.
@@ -84,4 +85,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito por Pedro Henrique Vinhas 🪐
+<blockquote>Feito por Pedro Henrique Vinhas 🪐 </blockquote>
