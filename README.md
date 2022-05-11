@@ -17,10 +17,10 @@ que pode ser implementada tanto no ecossistema web ou mobile. Utilizamos ferrame
 
 ## 🔧 Funcionalidades
 
-- ✔️ Navegação com o Teclado
-- ✔️ Envio e escolha de cada tipo de feedbacks.
-- ✔️ Screenshot da tela com html2canvas
-- ✔️ Uso do MailTrap para o envio de e-mails com os feedbacks
+✔️ Navegação com o Teclado
+✔️ Envio e escolha de cada tipo de feedbacks.
+✔️ Screenshot da tela com html2canvas
+✔️ Uso do MailTrap para o envio de e-mails com os feedbacks
 
 ## 🧪 Ferramentas
 
